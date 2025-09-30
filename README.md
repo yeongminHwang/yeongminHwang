@@ -27,12 +27,9 @@
 #### I use it often.
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/JAVA-text?style=for-the-badge&color=red
-  ">
-  <img src="https://img.shields.io/badge/Spring-text?style=for-the-badge&logo=spring&logoColor=black
-  ">
-  <img src="https://img.shields.io/badge/Spring_Boot-text?style=for-the-badge&logo=springboot&logoColor=black
-  ">
+  <img src="https://img.shields.io/badge/JAVA-text?style=for-the-badge&color=red">
+  <img src="https://img.shields.io/badge/Spring-text?style=for-the-badge&logo=spring&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring_Boot-text?style=for-the-badge&logo=springboot&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
@@ -40,11 +37,9 @@
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-text?style=for-the-badge&logo=nodedotjs&logoColor=black&color=green
-  ">
+  <img src="https://img.shields.io/badge/Node.js-text?style=for-the-badge&logo=nodedotjs&logoColor=black&color=green">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS%20EC2-text?style=for-the-badge&color=blue
-    ">
+    <img src="https://img.shields.io/badge/AWS%20EC2-text?style=for-the-badge&color=blue">
 </div>
 <br />
 <br />
